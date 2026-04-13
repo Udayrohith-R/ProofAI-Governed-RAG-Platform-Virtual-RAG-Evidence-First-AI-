@@ -2,7 +2,7 @@
 
 Live Demo: https://proofai-evidence-first-intelligence-633639606830.us-west1.run.app  
 Deployment: EU-sovereign (Cloud Run)  
-Author: Uday Rohith Reddy Yeruva  
+Author: Uday Rohith Reddy Yeruva (Google DeepMind)
 
 ProofAI is a governed Retrieval-Augmented Generation (RAG) platform built for evidence-first AI in enterprise and regulated environments.  
 Unlike typical RAG chatbots, ProofAI enforces policy-aware retrieval, auditability, grounding, and sovereign deployment.
@@ -117,4 +117,3 @@ Potential collaboration formats include:
 This repository does not expose production credentials.  
 Collaboration would be conducted under appropriate security and compliance constraints.
 
-Contact: <your professional email or LinkedIn>
